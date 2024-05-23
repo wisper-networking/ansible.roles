@@ -1,3 +1,6 @@
 [submodule "role.mikrotik_remote_logging"]
 	path = role.mikrotik_remote_logging
 	url = git@github.com:wisper-networking/role.mikrotik_remote_logging.git
+[submodule "role.pve_facts"]
+	path = role.pve_facts
+	url = git@github.com:wisper-networking/role.pve_facts.git
